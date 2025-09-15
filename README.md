@@ -56,7 +56,7 @@ The dataset contains:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Slide2.PNG)
+![Dashboard Screenshot](Home.PNG)
 
 ---
 
