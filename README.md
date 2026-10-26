@@ -47,7 +47,7 @@ The dataset contains:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/Aniketgupta149/Boat-powerbi-dashboard.git
    ```
 2. Open the **Power BI (.pbix)** file in **Power BI Desktop**.
 3. Connect to the dataset if needed.
